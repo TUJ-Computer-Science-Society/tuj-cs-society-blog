@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Space Mono
+      body: Fira Code
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -250,7 +250,9 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - author
         - description
+        - publishDate
         - tags
         - aliases
       excludedProperties: []
