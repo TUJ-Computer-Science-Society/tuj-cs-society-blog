@@ -36,7 +36,6 @@ dependency/dev-4094-excalidraw-plugin-dependency   # new dependency
 Make pull requests to merge to the `_development` and `main` branches. Be sure your pull requests:
 
 1. Are descriptive, have a summary.
-2. Explain the issue, where is it found, what caused it, and how. 
-3. or, if it's a feature, explain the impact, where it'll be added, and what changes it'll be making.
-4. Outline any tests you've written for this feature / fix.
+2. Explain the blog, what it's about, what you changed / added, etc.
+3. or, if it's an update, explain the impact, where it'll be added, and what changes it'll be making.
 5. Show any possible output(s), mockup(s), etc. if applicable.
