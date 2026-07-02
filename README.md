@@ -15,3 +15,18 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
 </p>
+
+---
+
+# TUJ CS Society Blog
+
+## Setup and Installation
+
+1. Clone this GitHub Repo
+```console
+git clone https://github.com/TUJ-Computer-Science-Society/tuj-cs-society-blog.git
+```
+
+2. `cd` into the recently cloned folder.
+
+3. 
