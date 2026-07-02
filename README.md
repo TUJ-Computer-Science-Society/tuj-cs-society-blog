@@ -20,6 +20,9 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 # TUJ CS Society Blog
 
+## Installation Instructions
+[Quartz 5 Setup and Installation](https://quartz.jzhao.xyz/getting-started/installation#option-a-use-the-github-template-recommended)
+
 ## Setup and Installation
 
 1. Clone this GitHub Repo
@@ -29,4 +32,42 @@ git clone https://github.com/TUJ-Computer-Science-Society/tuj-cs-society-blog.gi
 
 2. `cd` into the recently cloned folder.
 
-3. Install the dependencies
+3. Make sure you have Node.js 22 or later. Check your version with node -v and upgrade at nodejs.org if needed.
+
+4. Install the required dependencies with:
+```console
+npm i 
+
+// or
+
+npm install
+```
+
+5. Issues? Just fix
+```console
+npm audit fix
+```
+
+6. Install necessary plugins
+```console 
+npx quartz plugin install --from-config
+```
+
+7. Preview your site 
+```console 
+npx quartz build --serve
+```
+
+
+
+## Branches and Code Contribution
+
+1. The default branch is the `_development` branch.
+
+2. Please push all blogs, and any blog changes, visual or textual to the `_development` branch first.
+
+3. After a couple of changes have been reviewed and committed, you can merge it to `main` which will be the production branch.
+
+4. Make sure all code is reviewed in `_development` before merging to `main`. 
+
+5. `main` is the **production** branch, so be very safe when adding code to it.
