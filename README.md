@@ -29,4 +29,4 @@ git clone https://github.com/TUJ-Computer-Science-Society/tuj-cs-society-blog.gi
 
 2. `cd` into the recently cloned folder.
 
-3. 
+3. Install the dependencies
