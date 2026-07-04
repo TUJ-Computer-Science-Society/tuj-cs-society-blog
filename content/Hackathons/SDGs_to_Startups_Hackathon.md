@@ -16,7 +16,7 @@ tags:
 # Introduction
 After the 2026 Builders Weekend (BW), I met up with a bunch of my friends from various universities, all of whom I met at the BW-2026 Hackathon. We came together to organize, sponsor, and host our very own Hackathon. The SDGs to Startups Hackathon was successfully organized and hosted on June-20 and June-21, 2026.
 
-![Photo of Everyone](./images/SDGS_to_Startups_Hackathon-Everyone.jpg)
+![Photo of Everyone](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Everyone.jpg)
 
 
 ---
@@ -39,7 +39,7 @@ In my experience, the teams with the best harmony, and an ideal communication we
 <!-- I'm adding these images in a table, but you can also format them with pure HTML, I love markdown -->
 |  |  |  |
 | :---: | :---: | :---: |
-| ![Team-1](./images/SDGS_to_Startups_Hackathon-Team_1.jpg) | ![Team-2](./images/SDGS_to_Startups_Hackathon-Team_2.jpg) | ![Team-3](./images/SDGS_to_Startups_Hackathon-Team_3.jpg)  |
+| ![Team-1](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Team_1.jpg) | ![Team-2](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Team_2.jpg) | ![Team-3](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Team_3.jpg)  |
 
 
 --- 
@@ -59,7 +59,7 @@ This time, the prizes were cash, ElevenLab credits, and fame. The opportunity to
 
 | 2nd | 1st | 3rd |
 | :---: | :---: | :---: |
-| ![2nd Place](./images/SDGS_to_Startups_Hackathon-Winners-2nd.jpg) | ![1st Place](./images/SDGS_to_Startups_Hackathon-Winners-1st.jpg) | ![3rd Place](./images/SDGS_to_Startups_Hackathon-Winners-3rd.jpg)  |
+| ![2nd Place](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Winners-2nd.jpg) | ![1st Place](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Winners-1st.jpg) | ![3rd Place](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Winners-3rd.jpg)  |
 | HumanGate: Deepfake recognition and human verification. | FocusHear: Accessibility Tools, Live translation, and more features built into one app for people with hearing disabilities. | MedBridge: Tool to narrow down and search for hospitals offering specific care according to patient needs. |
 
 
@@ -70,10 +70,10 @@ Written by Bhushith Gujjala Hari.
 I had a lot of fun organizing and hosting this Hackathon. Every organizer, volunteer, member, judge, and person I met at this Hackathon were amazing. This was definitely the most memorable Hackathon I have ever co-organized, and I am lucky to have been part of such a huge, successful, fun, and wonderful event.
 
 ## Organizers Photo
-![SDGs to Startups Organizers Photo](./images/SDGS_to_Startups_Hackathon-Organizers_Group_Photo.jpg)
+![SDGs to Startups Organizers Photo](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Organizers_Group_Photo.jpg)
 
 ## Organizers and Judges Group Photo
-![SDGs to Startups Organizers and Judges Photo](./images/SDGS_to_Startups_Hackathon-Organizers_and_Judges.jpg)
+![SDGs to Startups Organizers and Judges Photo](./images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Organizers_and_Judges.jpg)
 
 
 <script src="https://giscus.app/client.js"
