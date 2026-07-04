@@ -91,6 +91,10 @@ place them within a folder that has the same title as the blog.
 **Folder and Image Naming Conventions**
 1. Folders should be named 
 
+### Other resources used 
+
+1. We use Quartz-Themes in this repo: [Quartz Themes Repo](https://github.com/saberzero1/quartz-themes)
+
 ---
 ## Writing Blogs 
 
