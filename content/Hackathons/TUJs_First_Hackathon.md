@@ -1,0 +1,73 @@
+---
+title: TUJ's First Hackathon
+description: Blog detailing TUJ's first Hackathon experience
+author: Bhushith Gujjala Hari
+date: 2026-07-03
+publishDate: 2026-07-10
+draft: false
+tags:
+  - hackathon
+  - event
+  - cs
+  - tuj
+---
+
+---
+# Introduction
+Temple University Japan Campus (TUJ) had the university's first Hackathon on March 29, 2025. It was a mini game jam Hackathon. This was going to be my first time co-organizing and co-hosting a Hackathon with the previous leaders of the Computer Science Society. I was equally nervous and excited for this event. 
+
+
+---
+# First Event 
+For a first event, we did not have a huge budget, we didn't have a lot of interesting prizes, just mainly giftcards, but however, the theme, the setting, the scale of the event, and the whole Hackathon was incredibly fun for everyone. 
+
+The theme especially made it quite fun for everyone, it was "The Game is a Liar". Participants had to make games that would trick the player. 
+
+We did have snacks, refreshments, drinks, but the main appeal of the event was to have fun, code something within just 9 hours, and make a fun project for everyone. 
+
+
+--- 
+# Teams and Projects
+We instructed teams to use PyGame, because it was the most easy to pick up, and suited the fast paced one day time limit of the Mini Hackathon / Game Jam. 
+
+Every team had an unique approach to the challenge, some teams were making a spinoff of an existing game, making games with a twist, making a completely new game with new rules, and so many more interesting projects. 
+
+
+
+---
+# Winners 
+Unfortunately, as fun, interesting, and well made each team's projects were, we have to pick favourites. As is the case with every Hackathon, I encourage people to participate regardless, and still take home the fun times, experience of being part of a hackathon, and the opportunities to network that come with it. 
+
+But, I am happy to announce these teams were the winners of our first Hackathon! All of whom are good friends of mine, which made me very proud.
+
+| 2nd | 1st | 3rd |
+| :---: | :---: | :---: |
+| ![2nd Place]() | ![1st Place]() | ![3rd Place]()  |
+
+
+---
+# Author Comments
+Written by Bhushith Gujjala Hari.
+
+It was a great event. It did incredibly well for the TUJ CS Society's first proper large scale event at TUJ. It was a huge step in the right direction in terms of Hackathons. 
+
+I was incredibly nervous when organizing this Hackathon, but I made sure to get the details right, and was able to pull off a successful event on my first try. 
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="TUJ-Computer-Science-Society/tuj-cs-society-blog"
+        data-repo-id="R_kgDOTKRYiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOTKRYic4DAVui"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_macchiato"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

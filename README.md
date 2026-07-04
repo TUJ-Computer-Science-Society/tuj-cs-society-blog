@@ -79,11 +79,17 @@ Please add any assets and images under `./content/<blog-folder>/images` and make
 ```
 
 #### Images Naming Convention:
-Make sure to name all images in the format: `BLOG_TITLE-IMAGE_NAME.png`
+Make sure to name all images in the format: `BLOG_TITLE-IMAGE_NAME.png` or 
+place them within a folder that has the same title as the blog. 
 
+**Image only Naming Conventions:**
 1. Separate the blog title and the name of the image with a hyphen `-`.
 2. The blog title is at the start, each word separated by underscores `_`.
 3. Then the image name follows, similarly, each word separated by underscores `_`.
+
+
+**Folder and Image Naming Conventions**
+1. Folders should be named 
 
 ---
 ## Writing Blogs 
@@ -101,7 +107,7 @@ a recent event you went to, a recent event you organized, anything really.
 ### Points to Remember:
 1. Writing should be of professional quality. Please no informal sentences or phrases.
 2. Writing should be kept formal, concise, and straight to the point.
-3. This is not Twitter. Do not make political claims, any bs that doesn't belong on a society, IT, or Tech blog.
+3. This is not Twitter. Do not make political claims, anything that doesn't belong on a society, IT, or Tech blog.
 4. **DO NOT USE AI**
 
 ### Strictly no AI (WITHOUT EXCEPTIONS):
@@ -154,7 +160,7 @@ Each blog doesn't necessarily need comments and discussions underneath it,
 
 2. Please push all blogs, and any blog changes, visual or textual to the `_development` branch first.
 
-3. After a couple of changes have been reviewed and committed, you can merge it to `main` which will be the production branch.
+3. After a couple of changes have been reviewed and committed, you can merge it to `main` which is the production branch.
 
 4. Make sure all code is reviewed in `_development` before merging to `main`. 
 
