@@ -67,7 +67,6 @@ I learnt a lot of crucial skills at this Hackathon. A few notable things to me w
 This was the first official TUJ CS Society team, and now most of my friends have graduated, but we were very happy to have pulled off a full event before that semester. I am happy I was given this opportunity, and I hope I do justice to the CS society in the future, organize more events, give TUJ students the recognition they deserve, and do more for the entire community, not only for the CS students, but for all students at TUJ.
 
 
-
 <script src="https://giscus.app/client.js"
         data-repo="TUJ-Computer-Science-Society/tuj-cs-society-blog"
         data-repo-id="R_kgDOTKRYiQ"
