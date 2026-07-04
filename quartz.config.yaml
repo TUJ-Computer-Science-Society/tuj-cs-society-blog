@@ -227,12 +227,12 @@ plugins:
     enabled: true
     options:
       title: Recent Notes
-      limit: 5
+      limit: 2
       linkToMore: false
-      showTags: true
+      showTags: false
     layout:
       position: left
-      priority: 25
+      priority: 60
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

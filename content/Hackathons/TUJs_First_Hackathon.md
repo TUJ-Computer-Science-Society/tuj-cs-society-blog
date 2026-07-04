@@ -46,6 +46,7 @@ But, I am happy to announce these teams were the winners of our first Hackathon 
 | 2nd | 1st | 3rd |
 | :---: | :---: | :---: |
 | ![2nd Place](./images/TUJs_First_Hackathon/Winners_2nd_Place.jpg) | ![1st Place](./images/TUJs_First_Hackathon/Winners_1st_Place.jpg) | ![3rd Place](./images/TUJs_First_Hackathon/Winners_3rd_Place.jpg)  |
+| _(Left to Right) Thomas Ishida, Ryuto Thai, Miguel Reyes Nakasone, Professor Hani Karam, and Professor Farid Nakhle_ | _(Left to Right) Bettina Marksteiner, Riju Pant, Jaideep Uppal, Sushant Bharadwaj Kagolanu, Professor Hani Karam, and Professor Farid Nakhle_ | _(Left to Right) Jay Sidka Abimanyu, Alisa Sumwalt, Alonzo Rico, Matthew Wong-Chie, Professor Hani Karam, and Professor Farid Nakhle_ |
 
 
 ---
