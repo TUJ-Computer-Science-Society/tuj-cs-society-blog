@@ -75,7 +75,7 @@ Feel free to modify `quartz.config.yaml` to change the styles, fonts, and design
 ### Adding Images
 Please add any assets and images under `./content/<blog-folder>/images` and make sure to reference them like:
 ```markdown
-![Alternate/Display Text](./images/<image-name>.png)
+![Alternate/Display Text](./_images/<image-name>.png)
 ```
 
 #### Images Naming Convention:
@@ -175,3 +175,5 @@ Each blog doesn't necessarily need comments and discussions underneath it,
 
 - [Quartz 5 Documentation](https://quartz.jzhao.xyz/)
 - [Personal Blog with Quartz - by Replit](https://replit.com/guides/a-personal-blog-with-quartz)
+- [Adding Premade Buttons in Markdown](https://gist.github.com/cxmeel/b3af232eba0ace022e2fba8b7b286520)
+- [Quartz Themes](https://github.com/saberzero1/quartz-themes)
