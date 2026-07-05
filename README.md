@@ -75,7 +75,7 @@ Feel free to modify `quartz.config.yaml` to change the styles, fonts, and design
 ### Adding Images
 Please add any assets and images under `./content/<blog-folder>/images` and make sure to reference them like:
 ```markdown
-![Alternate/Display Text](./images/<image-name>.png)
+![Alternate/Display Text](./_images/<image-name>.png)
 ```
 
 #### Images Naming Convention:

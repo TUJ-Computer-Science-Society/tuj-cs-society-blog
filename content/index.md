@@ -11,7 +11,7 @@ tags:
 Welcome to Temple University Japan Computer Science Society's very own Blog! 
 On this blog, we'll write about events, networking opportunities, career opportunities, personal event experiences, personal excerpts from CS Society members, and lots more!
 
-![Everyone from the SDGs to Startups Hackathon held in June 2026!](./images/Homepage/SDGs_To_Startups_Everyone.jpg)
+![Everyone from the SDGs to Startups Hackathon held in June 2026!](./_images/Homepage/SDGs_To_Startups_Everyone.jpg)
 
 
 ---
@@ -37,6 +37,6 @@ Email us at [TUJ CS Society's Official Mail](mailto:tujcsacademicsociety@gmail.c
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img alt="Bhushith Gujjala Hari" src="./images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpg" width="300"> | <img alt="Alonco Rico" src="./images/Homepage/CS_Society_Members/Alonzo_Rico.png" width="300"> | <img alt="Kaori Shimoda" src="./images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg" width="300"> |
+|<img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpg" width="300"> | <img alt="Alonco Rico" src="./_images/Homepage/CS_Society_Members/Alonzo_Rico.png" width="300"> | <img alt="Kaori Shimoda" src="./_images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg" width="300"> |
 | [Bhushith Gujjala Hari - Leader](https://www.linkedin.com/in/bhushith-gujjala-hari-9a5876276) | [Alonzo Rico - Co-Leader](https://www.linkedin.com/in/alonzo-rico/) | [Kaori Shimoda - Co-Leader](https://www.linkedin.com/in/kaori-shimoda/) |
 
