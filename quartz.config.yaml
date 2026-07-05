@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: tuj-cs-society-blog.github.io
+  baseUrl: tuj-computer-science-society.github.io/tuj-cs-society-blog/
   ignorePatterns:
     - private
     - templates
