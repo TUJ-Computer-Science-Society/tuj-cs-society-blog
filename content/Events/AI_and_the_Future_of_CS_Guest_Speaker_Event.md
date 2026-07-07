@@ -1,8 +1,8 @@
 ---
-title: Artificial Intelligence and the Future of Computer Science
+title: Artificial Intelligence and the Future of Computer Science Speaker Event
 description: Summer 2026's Guest Speaker event hosting talks and presentations about AI 
 author: Bhushith Gujjala Hari
-date: 2026-07-05
+date: 2026-07-06
 publishDate: 2026-07-10
 draft: false
 tags:
@@ -17,18 +17,28 @@ tags:
 
 # Introduction 
 
+<!-- TODO: add intro and poster -->
 
---- 
+
 ## List of Speakers
 
 <!-- TODO: add descriptions and stuff -->
 
+
 --- 
 # "Agentic AI and how it’s transforming Software Development Workflows in IT Companies" by Professor Mau Hernandes
 
+
+## AI-driven Software Development 
+
 Professor Mau Hernandes gives a very insightful presentation on how Artificial Intelligence (AI) is being used in the current software development environment and how most workflows have changed due to the introduction of agentic coding tools such as Claude Code, Codex, Cursor, and other such tools. He shows us how to build a quick telegram bot that sends you messages from a server and logs your responses. It's a short survey bot but he shows the audience how easy it is to code something on your phone in a matter of 15 mintues. 
 
+
+## Using AI Effectively and how Different Teams in Companies use it
+
 He explains that business focused employees are encouraging other people to use AI and sometimes use AI themselves to get to know a bit of the code or even ask about technical improvements that can be made to the application. He talks about how that's the main difference between people that have some base technical knowledge and the people that don't. People that do know the basics can prompt way better, in a token-efficient way, saving not only money, but time as well. He emphasizes the importance of how to stay up to date with technical information, and how to get better at prompting models by understanding the underlying technology at an expert level. 
+
+## Develop "AI-friendly" software
 
 Professor Hernandes closes his talk by saying how important developing **for AI agents** has become. He explains that everyone will be using and building on top of your software using AI, so not only is your job to make good software, but also make software that the AI can interact with easily. He explains that his talk isn't meant to show people how they will be developing software using AI, but how other people will be interacting with their software using AI agents and agentic coding tools.
 
@@ -71,61 +81,48 @@ Ai talks about a brief history of Computer science.
 --- 
 # “How to make the most of your university years to dominate the job market in the current CS landscape” by Ryuto Thai
 
-1. talks a bit of himself
-2. brutal and talks about On-Call engineers
-3. talks about amazon life
-4. talks about how on call engineers are abused
-5. can't go anywhere on the weekend - hope your hotspot 
-6. He had 3 month buffer, but he's a shadow on-call engineer now - he's just watching the engineer solve the issue
-    - reverse shadow - engineer watches you
-7. Current CS Landscape and market
-    - bad cuz tons of ai 
-8. Software is NOT coding
-    - more he works as engineer he realizees this 
-    - more valuable because of their judgement, values, tradeoffs, and stuff
-    - coding ai can do 
-9. Explains the bottleneck
-    - explains SDLC - software dev life cycle 
-    - before ai: writing code was the bottleneck
-    - after ai: reviewing code is the bottleneck
-10. HOW TO SURVIVE
-    - build ur exp from internship 
-        - use cdo in your first years 
-    - keep up with the latest tech
-        - articles, sns, etc.
-        - youtube is good 
-        - make sure to DIY = do it yourself 
-        - new tech? try to do it yourself 
-        - whatever u consume, make it into something actionable - u consume 10x more info than actuall reading it
-    - form connections 
-        - go to networking events 
-        - make friends out of tuj 
-11. "i hace no special talents, i am only passionately curious" - Albert Einstein 
-12. "ooh ooh ah ah" - Curious George 
-13.  Two icons, same idea, the point is to be curious 
-14. Curiosity is your cheat code, don't be afraid to ask questions during meetings, doing projects because he has no idea what it is, get deep in the codebase 
-15. Takeaway - "Be a 10x Curious Engineer"
-    - no one is 10x curious 
-    - everyone is super into AI and are smart 
-    - amazon engineers are the most curious ppl he has seen in his life, they're genuinely interested in things 
-    - they want to have answers immediately 
-    - takeaway : be as curious as possible 
+Ryuto is a recent TUJ graduate working full time for Amazon under their Manga team as a Software Developer. He first used to work as an intern at Amazon Furusato which is a way for people to offer tax donations to their hometown by buying products from that specific location. He explains his life now as a full-time _Amazonian_, and his work culture. He talks about how there are certain **On-Call Engineers** that are dedicated for incidents and any downtime events. 
 
-questions-1: how fast is development cycle, seems pretty fast 
-1. faster in terms of deployment 
-2. very speed
-3. if it breaks we fix 
-4. focus on fast deployment, but google focuses is getting into tech and focuses on getting it right 
-5. we have to make sure things don't break though, ofc
-6. deployment pipeline - takes super long but here is the cycle:
-    - build + unit test 
-    - integration test
-    - cycle: alpha -> beta -> gamma -> prod 
-        - differences include different types of testing and different types of environment 
+![Ryuto's day to day as an Amazonian Software Developer](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_day_to_day.png)
+_Image: A day in the life of Ryuto's work as a SWE at Amazon. (Credits: Ryuto Thai)_
 
 
+## On-Call Engineers
 
-<!-- TODO: Review from slides: https://canva.link/2474a0jm9ky5mz5 -->
+On-call engineers must be available at all times, doesn't matter if it's the middle of the night, 3 AM or 4 AM. They can't go too far over the weekends and if they do, they must carry their laptop with them and hope their hotspot holds. Because as an on-call engineer, you can get paged during any time of the day with an alarm equivalent to that of an Earthquake alert on most phones. Ryuto plays us a clip and it's equally loud as it is scary. Luckily, on-call engineers rotate every two weeks or often so. He also explains that he has about a 3 month buffer where he doesn't have to take the on-call engineer role, but he has to shadow an on-call engineer and watch what they do when they're dealing with incidents. Though he doesn't have to do anything or code, he still has to watch and learn from the other on-call engineer whenever there's an incident. There's also times when he has to play the role of an on-call engineer and there's another person shadowing him.   
+
+
+## Getting a Job in the Current CS Landscape 
+
+![How has bottlenecks changed in the current SDLC](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_SDLC_bottleneck.png)
+_Image: Bottleneck Changes in the SDLC. (Credits: Ryuto Thai)_
+
+Ryuto explains how software development is not just coding. Going off of what Prof. Hernandes said in the very first presentation, he explins the bottlenecks in the Software Development Life Cycle (SDLC) have changed. Before AI, the bottleneck was writing code. But now, after the introduction of AI, reviewing code is the bottleneck of any SDLC. 
+
+How to survive the market? Ryuto explains what worked best for him wasn't just staying closed off within the university and his courses, but going out, exploring, and meeting new people. He also explains how important it is to go out to networking events and get connections, because that will give you the reputation, trust, and backing needed for most companies to accept or interview you even. 
+
+![Ryuto's tips on how to survive the current CS Job Market](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_how_to_survive.png)
+_Image: How to survive the current CS job market. (Credits: Ryuto Thai)_
+
+He said to build your experience from internships. He advices TUJ students to use the [Career Development Office (CDO)](https://www.tuj.ac.jp/career-support) from your very first year, look for internships, better your resume, start applying, and staying ahead of the curve. 
+
+Finally, he talks about the importance of staying up to date with new technology trends and always being curious. He advises not only to consume information and news about the latest trends but also to get your hands dirty and try stuff out for yourself. He exclaims how whatever you consume, you should try and make it into something actionable. In this way you consume ten times more info than actually just reading it.
+
+## Staying Curious
+
+Ryuto's last slide are a set of quotes: "I have no special talents, I am only passionately curious" and "ooh ooh ah ah", one by Albert Einstein, and the other by Curious George, I'll leave which one belongs to who upto you. Two icons, same idea, the point is to be curious. Curiosity is your cheat code, don't be afraid to ask questions during meetings, doing projects because you have no idea what it is, get deep in the codebase just to understand the overall application, and be as curious as you can in anything and everything. 
+
+## Key Takeaway - "Be a 10x Curious Engineer"
+
+Many people are not ten times curious. Everyone that he's met at Amazon are into AI and are smart, but what differentiates amazon engineers is that they are some of the most curious people Ryuto has met in his life, they're genuinely interested in things and they want to have answers to their questions immediately. This mindset is genuinely what you need to increase your chances in the current job market. The final takeaway? Be as curious as possible.
+
+## Audience Questions 
+
+1. **How fast is an Amazon development cycle, from the presentation, it seems pretty fast."** 
+
+In Ryuto's words, yes, it is faster in terms of deployment, if it breaks they fix it later, but they focus on fast deployment, whereas companies like Google focus on getting the tech right. Obviously, he explains that they have to make things that don't break and to ensure this there is a awfully long list of testing environments the features they roll out have to get through. Before they even push some code, they have to build and unit test, then go through integration testing, and only after some linter checks and a lot of code-style checks, typechecks, and so on, they can push code. Then the testing cycle begins with a mind-blowing 4 different environments: Alpha -> Beta -> Gamma -> Prod, where the differences include different types of testing and different environments at each stage.  
+
+<!-- Review from slides: https://canva.link/2474a0jm9ky5mz5 -->
 
 ---
 # “How to Build Your Career in the Age of AI: Industry Reality, Engineering Skills, and the Future of Work” by Hyunho Kim
