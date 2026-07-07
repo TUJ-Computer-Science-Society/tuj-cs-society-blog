@@ -40,3 +40,21 @@ This was a more limiting theme this time only allowing participants to make eith
 The full gallery of all projects submitted at this Hackthon can be found here: 
 
 [DevPost Hackathon Gallery](https://tuj-fall-2025-hackathon.devpost.com/project-gallery)
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="TUJ-Computer-Science-Society/tuj-cs-society-blog"
+        data-repo-id="R_kgDOTKRYiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOTKRYic4DAVui"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_macchiato"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -14,44 +14,48 @@ tags:
   - organized-by-cs-society
 ---
 
+
 # Introduction 
 
 
+--- 
 ## List of Speakers
 
+<!-- TODO: add descriptions and stuff -->
 
 --- 
 # "Agentic AI and how it’s transforming Software Development Workflows in IT Companies" by Professor Mau Hernandes
 
-- Professor Mau talks about how AI is used in current software development workflows. 
-- business ppl recommended other people to use AI 
-- basic understanding of code makes agent perform better
-- u need some knowledge to get there, don't get lazy.
-- link your blog
-- do u recommend ppl choosing cs major
-    - writing code is a big factor 
-    - understanding requirements 
-    - making developer solutions
-    - ai is just a tool - just writes horrible code that needs hours of bad code 
-    - computer scientist does cooler stuff because they understand the deeper systems
-    - good time to be a computer scientist 
-- market of tokens
-    - ppl use tokens horrible 
-    - right now they are cheap 
-    - but use it better 
-    - super worried that ppl are becoming dependent on ai companies
+Professor Mau Hernandes gives a very insightful presentation on how Artificial Intelligence (AI) is being used in the current software development environment and how most workflows have changed due to the introduction of agentic coding tools such as Claude Code, Codex, Cursor, and other such tools. He shows us how to build a quick telegram bot that sends you messages from a server and logs your responses. It's a short survey bot but he shows the audience how easy it is to code something on your phone in a matter of 15 mintues. 
 
-Two pieces of advice for u to make software better for AI access
-1. mcp server
-2. llm.txt a file on the website that gives instructions 
+He explains that business focused employees are encouraging other people to use AI and sometimes use AI themselves to get to know a bit of the code or even ask about technical improvements that can be made to the application. He talks about how that's the main difference between people that have some base technical knowledge and the people that don't. People that do know the basics can prompt way better, in a token-efficient way, saving not only money, but time as well. He emphasizes the importance of how to stay up to date with technical information, and how to get better at prompting models by understanding the underlying technology at an expert level. 
+
+Professor Hernandes closes his talk by saying how important developing **for AI agents** has become. He explains that everyone will be using and building on top of your software using AI, so not only is your job to make good software, but also make software that the AI can interact with easily. He explains that his talk isn't meant to show people how they will be developing software using AI, but how other people will be interacting with their software using AI agents and agentic coding tools.
+
+## Audience Questions
+
+1. **"Do you still recommend people choosing a Computer Science (CS) major given the current state of AI and the job market?"**
+
+Professor Hernandes still agrees that choosing CS is a good call. He mentions he may be biased due to being a CS and Mathematics professor, however, he emphasizes that CS isn't all about coding. Though coding is a big factor of what people do, development and working in the Information Technology (IT) field is about understanding user / client requirements, making good, strong developer solutions to dynamic problems. He also mentions how AI is just a tool and without the right person to use it, it becomes nothing more than a waste of cash. My favourite quote from Professor Hernandes' answer is "AI Is just a tool that writes horrible code that needs hours of debugging", and he mentions how a computer scientist's job isn't just writing code but it's understanding the deeper systems to make them more effective, efficient, optimal, and failsafe. He closes his answer by saying that it's a good time to be a computer scientist, not just someone who writes code. 
+
+2. **"How do you think the market of tokens will change? They're already increasing in price, won't it just become more expensive to use LLMs? What happens to AI-driven development then?"**
+
+Professor Hernandes states that people use tokens horribly. Though they are cheap now, no one can predict how the market will shift in the near future. He's worried that people aren't saving enough tokens and don't really mind wasting some. He closes by saying how he's worried that people might get too dependent on AI companies and the services they offer and he proposes in-house solutions and people to become less dependent on AI in general. There isn't an unlimited supply of resources you know.
+
+3. **Professor, you focused a lot on how to develop for AI agents, how do you suggest we make software that's 'AI friendly'?"**
+
+Professor Hernandes says he doesn't know the complete answer to it yet. But a couple of ways he suggests is to make an accessible MCP server, giving any agent all the tools with clear description it needs to do tasks through your application, kind of like an Application Product Interface (API) but for coding agents. He also mentions how some websites, for example [Cloudflare](https://www.cloudflare.com/) have a Large Language Model (LLM) text file with clear instructions on how to parse their website [Cloudflare's LLM text file](https://developers.cloudflare.com/llms-full.txt). He suggests building instructions in your app itself to instruct any agents that autonomously come across your software so they can be instructed well on exactly what to do.
+
+
+_Side Note: Professor Hernandes' talk re-establishes the importance of how to use AI efficiently and not get lazy. Sorry for the self-insert, but here's a blog I wrote that is slightly related to this topic:_ [Don't get Lazy with AI development](../Member Blogs/Are_we_reducing_the_amount_of_work_or_creating_more_by_using_AI_in_Software_Development.md)
 
 
 ---
 # "Machine learning for Dummies” by Cassady Mead
 
-Cassady explains Machine Learning in the easiest ways possible. A short differentiation between how traditionally all rules are hard-coded and how in machine learning. My favourite quote from his presentation was "Machine learning models are like a kid that is pointing at random objects and figuring out which ones are actually sticks, but they never get bored". 
+<!-- Cassady explains Machine Learning in the easiest ways possible. A short differentiation between how traditionally all rules are hard-coded and how in machine learning. My favourite quote from his presentation was "Machine learning models are like a kid that is pointing at random objects and figuring out which ones are actually sticks, but they never get bored". 
 
-He is proudly deaf which leads into the next part of his presentation where he wants to change that a lot of people don't get accessibility help.  
+He is proudly deaf which leads into the next part of his presentation where he wants to change that a lot of people don't get accessibility help.   -->
 
 <!-- TODO: Review from slides that he sent over Discord -->
 
@@ -126,6 +130,39 @@ questions-1: how fast is development cycle, seems pretty fast
 ---
 # “How to Build Your Career in the Age of AI: Industry Reality, Engineering Skills, and the Future of Work” by Hyunho Kim
 
+Hyunhoo Kim Talking Notes: 
+ major - agriculture major not CS very unique 
+1. Technical skills would be better 
+2. Interested in AI and Computer Science 
+3. Started when AI was relatively new 
+4. Salesforce consultant first 
+5. AT AMD he quit the job last week 
+6. Working at AMD was the hardware side of AI he has exp with both hardware and software side of AI 
+7. Basics you learn in college you learn are very important. 
+8. Fundamentals are still there apply to your business and career 
+9. ai is not that clean - fundamental nature of AI - statistically they are just organising data that’s the most possible answers. General answers are very easy but super hard to fully make an autonomous workflow. 
+10. How to avoid getting replaced - get deep into AI, ppl read about it but don’t prepare at all, study a bit more into how AI works, don’t need to know everything but know the fundamentals and the fundamental algorithm 
+11. Two fundamental challenges to physical AI : 
+    1. very hard to get training data, for LLMS just use textbooks and the internet, but for physical model, how do you get specific behavioural data, how much money and time and Human Resources it’ll take. - software problem 
+    2. Motors are super expensive - really physical hardware limitations, how to supply motors and batteries 
+12. Say less. Big changes in hardware industry in the last 5-6 years. Think about bottlenecks while building data centres. 
 
 
-<!-- TODO: Add comments -->
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="TUJ-Computer-Science-Society/tuj-cs-society-blog"
+        data-repo-id="R_kgDOTKRYiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOTKRYic4DAVui"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_macchiato"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
