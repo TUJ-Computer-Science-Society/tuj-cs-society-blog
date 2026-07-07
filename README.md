@@ -21,6 +21,8 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 # TUJ CS Society Blog
 
+**TUJ CS Society Blog Link:**
+https://tuj-computer-science-society.github.io/tuj-cs-society-blog/
 
 ---
 ## Installation Instructions
