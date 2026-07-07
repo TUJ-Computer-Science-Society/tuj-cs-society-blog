@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence and the Future of Computer Science Speaker Event
-description: Summer 2026's Guest Speaker event hosting talks and presentations about AI 
+description: Summer 2026's Guest Speaker event hosting talks and presentations about AI, the future of Computer Science. Learn about how experienced individuals traverse the current computer science field with the rapid rise of AI in software development and its integration in every technical development team. 
 author: Bhushith Gujjala Hari
 date: 2026-07-06
 publishDate: 2026-07-10
@@ -27,6 +27,8 @@ tags:
 
 --- 
 # "Agentic AI and how it’s transforming Software Development Workflows in IT Companies" by Professor Mau Hernandes
+
+<!-- TODO: ADD PROF MAU SLIDES FROM OUTLOOK EMAIL IF U CAN PLS -->
 
 
 ## AI-driven Software Development 
@@ -81,6 +83,9 @@ Ai talks about a brief history of Computer science.
 --- 
 # “How to make the most of your university years to dominate the job market in the current CS landscape” by Ryuto Thai
 
+![A bit about Ryuto](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_about_me.png)
+_Image: Who am I? (Credits: Ryuto Thai)_
+
 Ryuto is a recent TUJ graduate working full time for Amazon under their Manga team as a Software Developer. He first used to work as an intern at Amazon Furusato which is a way for people to offer tax donations to their hometown by buying products from that specific location. He explains his life now as a full-time _Amazonian_, and his work culture. He talks about how there are certain **On-Call Engineers** that are dedicated for incidents and any downtime events. 
 
 ![Ryuto's day to day as an Amazonian Software Developer](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_day_to_day.png)
@@ -126,6 +131,23 @@ In Ryuto's words, yes, it is faster in terms of deployment, if it breaks they fi
 
 ---
 # “How to Build Your Career in the Age of AI: Industry Reality, Engineering Skills, and the Future of Work” by Hyunho Kim
+
+<!-- TODO: Match questions to answers -->
+Questions:
+"Current situation of industry nowadays."
+
+"What skills students need and what they should prepare."
+
+"Effects of AI on the workforce"
+
+"Effects of AI in the current jobs, and how it's affecting an engineer's workflow and everyday work"
+
+"The future of AI and what jobs it may take over"
+
+"How to avoid getting replaced by AI"
+
+"How AI is affecting the hardware industry and would it be good to improve hardware / other technical skills"
+
 
 Hyunhoo Kim Talking Notes: 
  major - agriculture major not CS very unique 
