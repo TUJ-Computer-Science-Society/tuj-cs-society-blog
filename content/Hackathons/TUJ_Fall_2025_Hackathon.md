@@ -18,9 +18,11 @@ The TUJ Fall 2025 Hackathon was the second biggest Hackathon TUJ CS Society had 
 
 [TUJ Fall 2025 Hackathon DevPost](https://tuj-fall-2025-hackathon.devpost.com/)
 
+![Everyone!](./_images/TUJ_Fall_2025_Hackathon/everyone.jpg)
+
 
 --- 
-# Themes
+# Hackathon Theme
 
 The theme of this Hackathon was **Code for Good**. This was the general/overall theme of the hackathon, code for the sake of code, code code that helps the community, and benefits the people around you.
 
@@ -42,7 +44,9 @@ The full gallery of all projects submitted at this Hackthon can be found here:
 
 | | | |
 |:------:|:------:|:------:|
-
+| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_1.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_2.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_3.jpg" width="300"> |
+| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_4.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_4.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_5.jpg" width="300"> |
+| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_7.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_8.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_9.jpg" width="300"> |
 
 
 ---
