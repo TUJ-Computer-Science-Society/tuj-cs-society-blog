@@ -5,6 +5,7 @@ author: Bhushith Gujjala Hari
 date: 2026-07-02
 publishDate: 2026-07-10
 draft: false
+comments: false
 tags:
   - cs
   - tuj
@@ -14,21 +15,22 @@ tags:
 # Event Gallery 
 Here is the entire array of events organized by the TUJ CS Society and their respective blogs. 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| <img alt="SDGs to Startups Hackathon" src="./Hackathons/_images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Everyone.jpg" width="300"> | <img alt="TUJ Fall 2025 Hackathon" src="" width="300"> | <img alt="TUJ's First Hackathon" src="./Hackathons/_images/TUJs_First_Hackathon/All_Participants_Photo.jpg" width="300"> |
-| [SDGs to Startups Hackathon](./Hackathons/SDGS_to_Startups_Hackathon.md) <br> _(June 20-21, 2026)_ | [TUJ Fall 2025 Hackathon](./Hackathons/TUJ_Fall_2025_Hackathon.md) <br> _(October 18, 2025)_ | [TUJs First Hackathon](./Hackathons/TUJs_First_Hackathon.md) <br> _(March 29, 2025)_ |
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img alt="AI and the Future of CS - Guest Speaker Event" src="./Events/_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/everyone.png" width="300"> | <img alt="SDGs to Startups Hackathon" src="./Hackathons/_images/SDGS_to_Startups_Hackathon/SDGS_to_Startups_Hackathon-Everyone.jpg" width="300"> | <img alt="TUJ Fall 2025 Hackathon" src="./Hackathons/_images/TUJ_Fall_2025_Hackathon/everyone.jpg" width="300"> | <img alt="TUJ's First Hackathon" src="./Hackathons/_images/TUJs_First_Hackathon/All_Participants_Photo.jpg" width="300"> |
+| [AI and the Future of CS - Guest Speaker Event](./Events/AI_and_the_Future_of_CS_Guest_Speaker_Event.md) <br> _(July 6, 2026)_ | [SDGs to Startups Hackathon](./Hackathons/SDGS_to_Startups_Hackathon.md) <br> _(June 20-21, 2026)_ | [TUJ Fall 2025 Hackathon](./Hackathons/TUJ_Fall_2025_Hackathon.md) <br> _(October 18, 2025)_ | [TUJs First Hackathon](./Hackathons/TUJs_First_Hackathon.md) <br> _(March 29, 2025)_ |
 
 
 ---
 # Complete Event List
-List of blogs documenting each event organized and hosted by the CS Society (from latest to oldest): 
 
-<!-- TODO: Add "Artificial Intelligence and the Future of Computer Science" -->
+List of blogs documenting each event, hackathon, and other meetup organized and hosted by the CS Society (from latest to oldest): 
 
-[SDGs to Startups Hackathon](./Hackathons/SDGS_to_Startups_Hackathon.md) _(June 20-21, 2026)_
+[AI and the Future of Computer Science - Guest Speaker Talk](./Events/AI_and_the_Future_of_CS_Guest_Speaker_Event.md) _(July 6, 2026)_
 
-<!-- TODO: Add Alliz Startup Career Hackathon -->
+[SDGs to Startups Hackathon](./Hackathons/SDGS_to_Startups_Hackathon.md) _(June 20 - 21, 2026)_
+
+[Alliz Startup Career Hackathon](./Hackathons/Alliz_Startup_Career_Hackathon.md) _(January 31, 2026)_
 
 [TUJ Fall 2025 Hackathon](./Hackathons/TUJ_Fall_2025_Hackathon.md) _(October 18, 2025)_
 

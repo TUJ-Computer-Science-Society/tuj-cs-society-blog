@@ -74,6 +74,12 @@ plugins:
     layout:
       position: right
       priority: 30
+    options:
+      maxDepth: 3
+      minEntries: 1
+      showByDefault: true 
+      collapseByDefault: false
+      layout: modern
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -99,6 +105,15 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
+  - source: github:saberzero1/quartz-themes
+    name: quartz-themes
+    repo: "https://github.com/saberzero1/quartz-themes.git"
+    subdir: plugin
+    enabled: true
+    order: 10
+    options:
+      theme: "catppuccin.macchiato"
+      mode: both
   - source: github:quartz-community/fonts
     enabled: true
   - source: github:quartz-community/remove-draft
@@ -204,16 +219,16 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
-        category: Announcements
-        categoryId: TODO:your-category-id
+        repo: TUJ-Computer-Science-Society/tuj-cs-society-blog
+        repoId: R_kgDOTKRYiQ
+        category: General
+        categoryId: DIC_kwDOTKRYic4DAVui
         mapping: url
         strict: true
         reactionsEnabled: true
         inputPosition: bottom
-        lightTheme: light
-        darkTheme: dark
+        lightTheme: catppuccin_latte
+        darkTheme: catppuccin_macchiato
         lang: en
     layout:
       position: afterBody
@@ -256,7 +271,7 @@ plugins:
         - publishDate
         - tags
         - aliases
-      excludedProperties: []
+      excludedProperties: ["description"]
       hidePropertiesView: false
       delimiters: ---
       language: yaml
