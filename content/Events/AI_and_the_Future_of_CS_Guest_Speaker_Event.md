@@ -58,13 +58,6 @@ Cassady is a fourth year computer science student at TUJ. He is an experienced m
 Read about his presentation: [“Machine learning for Dummies” by Cassady Mead](#machine-learning-for-dummies-by-cassady-mead)
 
 
-### Ai Sekine
-
-Ai is a fourth year computer science and mathematics student at the University of Pittsburgh. She is a prominent speaker for SIGBOVIK and gives presentations about applied CS and Math algorithms at various conferences. She hopes to get into researching algorithms after graduation at a masters program. She joins a lot of Hackathons, CS events, and is based in Tokyo, Vietnam, and Pennsylvania and will be offering her unique international experiences to the campus of TUJ. 
-
-Read about her presentation: [“The history of computer science and its transition from Web into the age of AI” by Ai Sekine](#the-history-of-computer-science-and-its-transition-from-web-into-the-age-of-ai-by-ai-sekine)
-
-
 ### Ryuto Thai 
 
 Ryuto Thai is a recent graduate from TUJ. He is currently working as a Software Engineer at Amazon Japan, and has interned at Moët Hennessy Louis Vuitton (LVMH) at Guerlain before. He started his dream internship at Amazon at only 20 years old, graduated from TUJ with a CS degree and Economics minor in just three years. He has also competed in five hackathons, all of which he has won in, including one backed by Y Combinator (YC). He is an experienced student and knows how to navigate through university and the CS job market. He will be sharing his experiences and pro tips to beat the career ladder at this event.
@@ -77,6 +70,13 @@ Read about his presentation: [“How to make the most of your university years t
 Hyunho Kim is an AI Security Solutions Architect who most recently supported AMD Japan, specializing in AI Security, edge AI, and AI PC architectures across CPU, GPU, and NPU systems. His experience spans AI product management, solution consulting, hardware-aware AI optimization, and AI security. His research background includes reinforcement learning, comparative AI algorithm performance, and energy-optimal allocation problems. He has also contributed to policy discussions and advisory work related to science and technology, public-sector cloud, AI, and national security strategy in Korea. Hyunho was also recently invited to participate in the Berkeley Quantum Nexus ecosystem, where his interests include Quantum AI, post-quantum cryptography, and the commercialization of emerging technologies. Hyunho regularly speaks on the future of AI, AI infrastructure, engineering careers, and how students can prepare for the changing technology industry.
 
 Read about his presentation: [“How to Build Your Career in the Age of AI: Industry Reality, Engineering Skills, and the Future of Work” by Hyunho Kim](#how-to-build-your-career-in-the-age-of-ai-industry-reality-engineering-skills-and-the-future-of-work-by-hyunho-kim)
+
+
+### Ai Sekine
+
+Ai is a fourth year computer science and mathematics student at the University of Pittsburgh. She is a prominent speaker for SIGBOVIK and gives presentations about applied CS and Math algorithms at various conferences. She hopes to get into researching algorithms after graduation at a masters program. She joins a lot of Hackathons, CS events, and is based in Tokyo, Vietnam, and Pennsylvania and will be offering her unique international experiences to the campus of TUJ. 
+
+Read about her presentation: [“The history of computer science and its transition from Web into the age of AI” by Ai Sekine](#the-history-of-computer-science-and-its-transition-from-web-into-the-age-of-ai-by-ai-sekine)
 
 
 --- 
@@ -156,6 +156,90 @@ Here, Cassady shows us a hand sign and how the model recognizes it. You can see 
 > [!info] Full Presentation and Complete Demo on YouTube
 >
 > You can watch Cassady's full presentation, along with the live demo, and audience questions on YouTube: [Cassady's Presentation](https://youtu.be/NiCfMc1VmUw)
+
+
+--- 
+# “How to make the most of your university years to dominate the job market in the current CS landscape” by Ryuto Thai
+
+![A bit about Ryuto](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_about_me.png)
+_Image: Who am I? (Credits: Ryuto Thai)_
+
+Ryuto is a recent TUJ graduate working full time for Amazon under their Manga team as a Software Developer. He first used to work as an intern at Amazon Furusato which is a way for people to offer tax donations to their hometown by buying products from that specific location. He explains his life now as a full-time _Amazonian_, and his work culture. He talks about how there are certain **On-Call Engineers** that are dedicated for incidents and any downtime events. 
+
+![Ryuto's day to day as an Amazonian Software Developer](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_day_to_day.png)
+_Image: A day in the life of Ryuto's work as a SWE at Amazon. (Credits: Ryuto Thai)_
+
+
+## On-Call Engineers
+
+On-call engineers must be available at all times, doesn't matter if it's the middle of the night, 3 AM or 4 AM. They can't go too far over the weekends and if they do, they must carry their laptop with them and hope their hotspot holds. Because as an on-call engineer, you can get paged during any time of the day with an alarm equivalent to that of an Earthquake alert on most phones. Ryuto plays us a clip and it's equally loud as it is scary. Luckily, on-call engineers rotate every two weeks or often so. He also explains that he has about a 3 month buffer where he doesn't have to take the on-call engineer role, but he has to shadow an on-call engineer and watch what they do when they're dealing with incidents. Though he doesn't have to do anything or code, he still has to watch and learn from the other on-call engineer whenever there's an incident. There's also times when he has to play the role of an on-call engineer and there's another person shadowing him.   
+
+
+## Getting a Job in the Current CS Landscape 
+
+![How has bottlenecks changed in the current SDLC](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_SDLC_bottleneck.png)
+_Image: Bottleneck Changes in the SDLC. (Credits: Ryuto Thai)_
+
+Ryuto explains how software development is not just coding. Going off of what Prof. Hernandes said in the very first presentation, he explins the bottlenecks in the Software Development Life Cycle (SDLC) have changed. Before AI, the bottleneck was writing code. But now, after the introduction of AI, reviewing code is the bottleneck of any SDLC. 
+
+How to survive the market? Ryuto explains what worked best for him wasn't just staying closed off within the university and his courses, but going out, exploring, and meeting new people. He also explains how important it is to go out to networking events and get connections, because that will give you the reputation, trust, and backing needed for most companies to accept or interview you even. 
+
+![Ryuto's tips on how to survive the current CS Job Market](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_how_to_survive.png)
+_Image: How to survive the current CS job market. (Credits: Ryuto Thai)_
+
+He said to build your experience from internships. He advices TUJ students to use the [Career Development Office (CDO)](https://www.tuj.ac.jp/career-support) from your very first year, look for internships, better your resume, start applying, and staying ahead of the curve. 
+
+Finally, he talks about the importance of staying up to date with new technology trends and always being curious. He advises not only to consume information and news about the latest trends but also to get your hands dirty and try stuff out for yourself. He exclaims how whatever you consume, you should try and make it into something actionable. In this way you consume ten times more info than actually just reading it.
+
+## Staying Curious
+
+Ryuto's last slide are a set of quotes: "I have no special talents, I am only passionately curious" and "ooh ooh ah ah", one by Albert Einstein, and the other by Curious George, I'll leave which one belongs to who upto you. Two icons, same idea, the point is to be curious. Curiosity is your cheat code, don't be afraid to ask questions during meetings, doing projects because you have no idea what it is, get deep in the codebase just to understand the overall application, and be as curious as you can in anything and everything. 
+
+## Key Takeaway - "Be a 10x Curious Engineer"
+
+Many people are not ten times curious. Everyone that he's met at Amazon are into AI and are smart, but what differentiates amazon engineers is that they are some of the most curious people Ryuto has met in his life, they're genuinely interested in things and they want to have answers to their questions immediately. This mindset is genuinely what you need to increase your chances in the current job market. The final takeaway? Be as curious as possible.
+
+## Audience Questions 
+
+1. **How fast is an Amazon development cycle, from the presentation, it seems pretty fast."** 
+
+In Ryuto's words, yes, it is faster in terms of deployment, if it breaks they fix it later, but they focus on fast deployment, whereas companies like Google focus on getting the tech right. Obviously, he explains that they have to make things that don't break and to ensure this there is a awfully long list of testing environments the features they roll out have to get through. Before they even push some code, they have to build and unit test, then go through integration testing, and only after some linter checks and a lot of code-style checks, typechecks, and so on, they can push code. Then the testing cycle begins with a mind-blowing 4 different environments: Alpha -> Beta -> Gamma -> Prod, where the differences include different types of testing and different environments at each stage.  
+
+<!-- Review from slides: https://canva.link/2474a0jm9ky5mz5 -->
+
+2. **How big is the number on your paycheck?** 
+
+_Guys, keep the questions relevant to the presentation please!_
+
+
+---
+# “How to Build Your Career in the Age of AI: Industry Reality, Engineering Skills, and the Future of Work” by Hyunho Kim
+
+Hyunho Kim introduces a bit about himself talking about how he was originally he was a agriculture major and not related to CS at all. He explains that he first started working as a Salesforce Consultant, and then moving to AMD. He then answers some common student questions that were collected before the guest speaker event was planned:
+
+
+## What skills students need and what they should prepare for the current CS job market and IT industry?
+
+He explains that the basics and fundamental concepts you learn in university are still very important. He states that those concepts never go away and never change, and they're always there and used. He explains how concepts he studied in Linear Algebra during his undergrad years, he used on the job to solve a problem. He also explains that AI is not clean. He emphasizes what AI is at the end of the day, just a statistical model organizing data that offers the most possilbe answers. He says that generic answers, AI can answer really well but specific cases, it'll suck at the job, most probably because they're not in the thousands of the datasets it has been trained on. At the end of the day it's just a prediction algorithm and it's hard to make a fully autonomous workflow. 
+
+
+## How to avoid getting replaced by AI?
+
+He urges people to get deep into AI. He tells the audience that most people read about it but don’t prepare at all. He recommends people study a bit more into how AI works, you don’t need to know everything, but knowing the fundamentals and the fundamental algorithm will get you far. Learning a bit about Natural Language Processing (NLP) and understanding how tokens are broken down and processed can help you get better with prompt engineering and using AI in general.
+
+
+## How AI is affecting the hardware industry and would it be good to improve hardware / other technical skills?
+
+He also explains from AMD's point of view that there are a lot of big changes in the hardware industry in the last 5-6 years. Kim states Two fundamental challenges to physical AI : 
+
+1. It's very hard to get physical training data. For Large Language Models (LLMs), you can just use free textbooks, online forums, online open source repositories, and everything that's for free on the internet, but for physical models and for physical robots, how do you get specific behavioural data. Think about how much money and time and human resources it’ll take. This is the software problem for physical AI.
+
+2. Second, the hardware problem is that motors are super expensive. This is a real physical hardware limitation and is not easily overcome. How can one supply motors and batteries to robots on demand? How can they keep getting replaced, and how can they be efficiently maintained without too much expense and human resources? 
+
+
+> [!info] Full Presentation on the Discord
+>
+> There are a lot of other topics Hyunho Kim explored in his topic, I cannot do enough justice to how insightful his talk was. You can request for the full talk on our Discord server, or by messaging me directly.
 
 
 ---
@@ -277,91 +361,7 @@ _There's a lot of topics Ai touched on, I'll simply summarize the rough history 
 
 > [!info] Full Presentation on the Discord
 > 
-> _You can catch her talk in the fully recorded video which is available on our Discord server!_
-
-
---- 
-# “How to make the most of your university years to dominate the job market in the current CS landscape” by Ryuto Thai
-
-![A bit about Ryuto](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_about_me.png)
-_Image: Who am I? (Credits: Ryuto Thai)_
-
-Ryuto is a recent TUJ graduate working full time for Amazon under their Manga team as a Software Developer. He first used to work as an intern at Amazon Furusato which is a way for people to offer tax donations to their hometown by buying products from that specific location. He explains his life now as a full-time _Amazonian_, and his work culture. He talks about how there are certain **On-Call Engineers** that are dedicated for incidents and any downtime events. 
-
-![Ryuto's day to day as an Amazonian Software Developer](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_day_to_day.png)
-_Image: A day in the life of Ryuto's work as a SWE at Amazon. (Credits: Ryuto Thai)_
-
-
-## On-Call Engineers
-
-On-call engineers must be available at all times, doesn't matter if it's the middle of the night, 3 AM or 4 AM. They can't go too far over the weekends and if they do, they must carry their laptop with them and hope their hotspot holds. Because as an on-call engineer, you can get paged during any time of the day with an alarm equivalent to that of an Earthquake alert on most phones. Ryuto plays us a clip and it's equally loud as it is scary. Luckily, on-call engineers rotate every two weeks or often so. He also explains that he has about a 3 month buffer where he doesn't have to take the on-call engineer role, but he has to shadow an on-call engineer and watch what they do when they're dealing with incidents. Though he doesn't have to do anything or code, he still has to watch and learn from the other on-call engineer whenever there's an incident. There's also times when he has to play the role of an on-call engineer and there's another person shadowing him.   
-
-
-## Getting a Job in the Current CS Landscape 
-
-![How has bottlenecks changed in the current SDLC](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_SDLC_bottleneck.png)
-_Image: Bottleneck Changes in the SDLC. (Credits: Ryuto Thai)_
-
-Ryuto explains how software development is not just coding. Going off of what Prof. Hernandes said in the very first presentation, he explins the bottlenecks in the Software Development Life Cycle (SDLC) have changed. Before AI, the bottleneck was writing code. But now, after the introduction of AI, reviewing code is the bottleneck of any SDLC. 
-
-How to survive the market? Ryuto explains what worked best for him wasn't just staying closed off within the university and his courses, but going out, exploring, and meeting new people. He also explains how important it is to go out to networking events and get connections, because that will give you the reputation, trust, and backing needed for most companies to accept or interview you even. 
-
-![Ryuto's tips on how to survive the current CS Job Market](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_how_to_survive.png)
-_Image: How to survive the current CS job market. (Credits: Ryuto Thai)_
-
-He said to build your experience from internships. He advices TUJ students to use the [Career Development Office (CDO)](https://www.tuj.ac.jp/career-support) from your very first year, look for internships, better your resume, start applying, and staying ahead of the curve. 
-
-Finally, he talks about the importance of staying up to date with new technology trends and always being curious. He advises not only to consume information and news about the latest trends but also to get your hands dirty and try stuff out for yourself. He exclaims how whatever you consume, you should try and make it into something actionable. In this way you consume ten times more info than actually just reading it.
-
-## Staying Curious
-
-Ryuto's last slide are a set of quotes: "I have no special talents, I am only passionately curious" and "ooh ooh ah ah", one by Albert Einstein, and the other by Curious George, I'll leave which one belongs to who upto you. Two icons, same idea, the point is to be curious. Curiosity is your cheat code, don't be afraid to ask questions during meetings, doing projects because you have no idea what it is, get deep in the codebase just to understand the overall application, and be as curious as you can in anything and everything. 
-
-## Key Takeaway - "Be a 10x Curious Engineer"
-
-Many people are not ten times curious. Everyone that he's met at Amazon are into AI and are smart, but what differentiates amazon engineers is that they are some of the most curious people Ryuto has met in his life, they're genuinely interested in things and they want to have answers to their questions immediately. This mindset is genuinely what you need to increase your chances in the current job market. The final takeaway? Be as curious as possible.
-
-## Audience Questions 
-
-1. **How fast is an Amazon development cycle, from the presentation, it seems pretty fast."** 
-
-In Ryuto's words, yes, it is faster in terms of deployment, if it breaks they fix it later, but they focus on fast deployment, whereas companies like Google focus on getting the tech right. Obviously, he explains that they have to make things that don't break and to ensure this there is a awfully long list of testing environments the features they roll out have to get through. Before they even push some code, they have to build and unit test, then go through integration testing, and only after some linter checks and a lot of code-style checks, typechecks, and so on, they can push code. Then the testing cycle begins with a mind-blowing 4 different environments: Alpha -> Beta -> Gamma -> Prod, where the differences include different types of testing and different environments at each stage.  
-
-<!-- Review from slides: https://canva.link/2474a0jm9ky5mz5 -->
-
-2. **How big is the number on your paycheck?** 
-
-_Guys, keep the questions relevant to the presentation please!_
-
-
----
-# “How to Build Your Career in the Age of AI: Industry Reality, Engineering Skills, and the Future of Work” by Hyunho Kim
-
-Hyunho Kim introduces a bit about himself talking about how he was originally he was a agriculture major and not related to CS at all. He explains that he first started working as a Salesforce Consultant, and then moving to AMD. He then answers some common student questions that were collected before the guest speaker event was planned:
-
-
-## What skills students need and what they should prepare for the current CS job market and IT industry?
-
-He explains that the basics and fundamental concepts you learn in university are still very important. He states that those concepts never go away and never change, and they're always there and used. He explains how concepts he studied in Linear Algebra during his undergrad years, he used on the job to solve a problem. He also explains that AI is not clean. He emphasizes what AI is at the end of the day, just a statistical model organizing data that offers the most possilbe answers. He says that generic answers, AI can answer really well but specific cases, it'll suck at the job, most probably because they're not in the thousands of the datasets it has been trained on. At the end of the day it's just a prediction algorithm and it's hard to make a fully autonomous workflow. 
-
-
-## How to avoid getting replaced by AI?
-
-He urges people to get deep into AI. He tells the audience that most people read about it but don’t prepare at all. He recommends people study a bit more into how AI works, you don’t need to know everything, but knowing the fundamentals and the fundamental algorithm will get you far. Learning a bit about Natural Language Processing (NLP) and understanding how tokens are broken down and processed can help you get better with prompt engineering and using AI in general.
-
-
-## How AI is affecting the hardware industry and would it be good to improve hardware / other technical skills?
-
-He also explains from AMD's point of view that there are a lot of big changes in the hardware industry in the last 5-6 years. Kim states Two fundamental challenges to physical AI : 
-
-1. It's very hard to get physical training data. For Large Language Models (LLMs), you can just use free textbooks, online forums, online open source repositories, and everything that's for free on the internet, but for physical models and for physical robots, how do you get specific behavioural data. Think about how much money and time and human resources it’ll take. This is the software problem for physical AI.
-
-2. Second, the hardware problem is that motors are super expensive. This is a real physical hardware limitation and is not easily overcome. How can one supply motors and batteries to robots on demand? How can they keep getting replaced, and how can they be efficiently maintained without too much expense and human resources? 
-
-
-> [!info] Full Presentation on the Discord
->
-> _There are a lot of other topics Hyunho Kim explored in his topic, I cannot do enough justice to how insightful his talk was. You can request for the full talk on our Discord server, or by messaging me directly._
+> You can catch her talk in the fully recorded video which is available on our Discord server!
 
 
 # Author Comments
@@ -371,8 +371,6 @@ A great event! I really enjoyed organizing this all within two days. That's righ
 
 ![Everyone at the Event](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/everyone.png)
 
-
----
 
 <script src="https://giscus.app/client.js"
         data-repo="TUJ-Computer-Science-Society/tuj-cs-society-blog"

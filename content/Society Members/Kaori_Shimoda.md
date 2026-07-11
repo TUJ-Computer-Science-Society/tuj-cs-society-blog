@@ -14,7 +14,8 @@ tags:
 
 ## Introduction
 
-[Kaori Shimoda](./_images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg)
+<!-- How to center an image: https://dev.to/bdavidxyz/markdown-center-image-39j1 -->
+<img alt="Kaori Shimoda" src="./_images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg" width="300" style="display: block; margin: 0 auto;">
 
 Hey guys! I’m Kaori, a Computer Science junior at TUJ. I’m originally from the Philippines, but I moved to Japan seven years ago. When I first came here, I couldn’t speak any Japanese, but I attended a regular Japanese high school anyway. It was definitely challenging, but that’s how I learned the language and adapted to the culture.
 
