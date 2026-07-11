@@ -21,6 +21,8 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 # TUJ CS Society Blog
 
+**TUJ CS Society Blog Link:**
+https://tuj-computer-science-society.github.io/tuj-cs-society-blog/
 
 ---
 ## Installation Instructions
@@ -154,6 +156,21 @@ Each blog doesn't necessarily need comments and discussions underneath it,
         crossorigin="anonymous"
         async>
 </script>
+```
+
+4. If you don't want comments, in the frontmatter (the section between --- at the top of every blog page), please set `comments` to `false`. Here's an example:
+
+```
+---
+title: CS Society's Events
+author: Bhushith Gujjala Hari
+date: 2026-07-02
+draft: false
+comments: false <!-- this line-->
+tags:
+  - cs
+---
+
 ```
 
 

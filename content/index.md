@@ -1,6 +1,7 @@
 ---
 title: Welcome to the TUJ Computer Science Society Blog
 draft: false
+comments: false
 tags:
     - cs-society
     - tuj
@@ -12,6 +13,14 @@ Welcome to Temple University Japan Computer Science Society's very own Blog!
 On this blog, we'll write about events, networking opportunities, career opportunities, personal event experiences, personal excerpts from CS Society members, and lots more!
 
 ![Everyone from the SDGs to Startups Hackathon held in June 2026!](./_images/Homepage/SDGs_To_Startups_Everyone.jpg)
+
+
+---
+# Who we are
+
+We are the **Temple University Japan Computer Science Society** (or TUJ CS Society for short). We mainly operate at TUJ, hosting events, hackathons, career events, meetups, and a lot more for both TUJ and external students. We strive for student success in general, and work hard to build and improve upon the community at TUJ. 
+
+Other than just hosting events, we hope to help people in their academic, career, professional, and personal development. Announcing upcoming events in Tokyo, notifying students about international meetups, inviting students to external hackathons, organizing and hosting events, supporting clubs and other student organizations, hosting club events, are all only a handful of things we do at the TUJ CS Society!
 
 
 ---
@@ -33,10 +42,8 @@ Email us at [TUJ CS Society's Official Mail](mailto:tujcsacademicsociety@gmail.c
 
 
 ---
-# Members of the CS Society 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpg" width="300"> | <img alt="Alonco Rico" src="./_images/Homepage/CS_Society_Members/Alonzo_Rico.png" width="300"> | <img alt="Kaori Shimoda" src="./_images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg" width="300"> |
-| [Bhushith Gujjala Hari - Leader](https://www.linkedin.com/in/bhushith-gujjala-hari-9a5876276) | [Alonzo Rico - Co-Leader](https://www.linkedin.com/in/alonzo-rico/) | [Kaori Shimoda - Co-Leader](https://www.linkedin.com/in/kaori-shimoda/) |
+# The people behind the CS Society
 
+<!-- This is how to embed a whole note within another page (Obsidian Transclusions Syntax) -->
+![[<./Society Members/index.md>]]
