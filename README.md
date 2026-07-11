@@ -158,6 +158,21 @@ Each blog doesn't necessarily need comments and discussions underneath it,
 </script>
 ```
 
+4. If you don't want comments, in the frontmatter (the section between --- at the top of every blog page), please set `comments` to `false`. Here's an example:
+
+```
+---
+title: CS Society's Events
+author: Bhushith Gujjala Hari
+date: 2026-07-02
+draft: false
+comments: false <!-- this line-->
+tags:
+  - cs
+---
+
+```
+
 
 ---
 ## Branches and Code Contribution
