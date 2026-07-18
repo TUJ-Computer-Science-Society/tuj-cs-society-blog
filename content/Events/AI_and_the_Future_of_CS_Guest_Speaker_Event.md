@@ -34,7 +34,7 @@ tags:
 -->
 
 
-![AI and the Future of Computer Science - Event Banner](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Blog_Header_Banner.png)
+![AI and the Future of Computer Science - Event Banner](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Blog_Header_Banner.jpeg)
 
 This summer, we had professors, industry professionals, and students come to TUJ to present their experiences with AI and how they used it to improve their knowledge, tacket the current Computer Science (CS) job market, and how to navigate the software development space with AI. 
 
@@ -139,7 +139,7 @@ Cassady talks about how he is proudly deaf which leads into the next part of his
 
 He explains his solution, the "Sign Language Recognition (SLR) model". He uses a camera to capture his live hand gesture, detect what it is, using a ML model to classify the gesture and then output the real time translation as text. I could explain how he built it, but it's easier to understand from his slides:
 
-![How Cassady built the SLR model](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_how_I_built_SLR.png)
+![How Cassady built the SLR model](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_how_I_built_SLR.jpeg)
 
 
 ## Live Demo
@@ -148,8 +148,8 @@ Here, Cassady shows us a hand sign and how the model recognizes it. You can see 
 
 | | | | |
 |:----:|:----:|:----:|:----:|
-| <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_hello_1.png"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_2_what_1.png"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_3_your_1.png"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_4_name_1.png"> |
-| <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_hello_2.png"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_2_what_2.png"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_3_your_2.png"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_4_name_2.png"> |
+| <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_hello_1.jpeg"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_2_what_1.jpeg"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_3_your_1.jpeg"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_4_name_1.jpeg"> |
+| <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_hello_2.jpeg"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_2_what_2.jpeg"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_3_your_2.jpeg"> | <img src="./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/cassady_live_demo_4_name_2.jpeg"> |
 | _"Hello"_ |_"What"_|_"Your"_|_"Name"_|
 
 
@@ -161,12 +161,12 @@ Here, Cassady shows us a hand sign and how the model recognizes it. You can see 
 --- 
 # “How to make the most of your university years to dominate the job market in the current CS landscape” by Ryuto Thai
 
-![A bit about Ryuto](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_about_me.png)
+![A bit about Ryuto](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_about_me.jpeg)
 _Image: Who am I? (Credits: Ryuto Thai)_
 
 Ryuto is a recent TUJ graduate working full time for Amazon under their Manga team as a Software Developer. He first used to work as an intern at Amazon Furusato which is a way for people to offer tax donations to their hometown by buying products from that specific location. He explains his life now as a full-time _Amazonian_, and his work culture. He talks about how there are certain **On-Call Engineers** that are dedicated for incidents and any downtime events. 
 
-![Ryuto's day to day as an Amazonian Software Developer](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_day_to_day.png)
+![Ryuto's day to day as an Amazonian Software Developer](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_day_to_day.jpeg)
 _Image: A day in the life of Ryuto's work as a SWE at Amazon. (Credits: Ryuto Thai)_
 
 
@@ -177,14 +177,14 @@ On-call engineers must be available at all times, doesn't matter if it's the mid
 
 ## Getting a Job in the Current CS Landscape 
 
-![How has bottlenecks changed in the current SDLC](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_SDLC_bottleneck.png)
+![How has bottlenecks changed in the current SDLC](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_SDLC_bottleneck.jpeg)
 _Image: Bottleneck Changes in the SDLC. (Credits: Ryuto Thai)_
 
 Ryuto explains how software development is not just coding. Going off of what Prof. Hernandes said in the very first presentation, he explins the bottlenecks in the Software Development Life Cycle (SDLC) have changed. Before AI, the bottleneck was writing code. But now, after the introduction of AI, reviewing code is the bottleneck of any SDLC. 
 
 How to survive the market? Ryuto explains what worked best for him wasn't just staying closed off within the university and his courses, but going out, exploring, and meeting new people. He also explains how important it is to go out to networking events and get connections, because that will give you the reputation, trust, and backing needed for most companies to accept or interview you even. 
 
-![Ryuto's tips on how to survive the current CS Job Market](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_how_to_survive.png)
+![Ryuto's tips on how to survive the current CS Job Market](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/Ryuto_how_to_survive.jpeg)
 _Image: How to survive the current CS job market. (Credits: Ryuto Thai)_
 
 He said to build your experience from internships. He advices TUJ students to use the [Career Development Office (CDO)](https://www.tuj.ac.jp/career-support) from your very first year, look for internships, better your resume, start applying, and staying ahead of the curve. 
@@ -369,7 +369,7 @@ Written by Bhushith Gujjala Hari
 
 A great event! I really enjoyed organizing this all within two days. That's right, I planned this thing on Thursday, July 2, 2026, and somehow had finalized all the speakers by the night of Friday. It was a very rushed event but overall, I'm really glad it all came together for a fun, insightful, and informational event.
 
-![Everyone at the Event](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/everyone.png)
+![Everyone at the Event](./_images/AI_and_the_Future_of_CS_Guest_Speaker_Event/everyone.jpeg)
 
 
 <script src="https://giscus.app/client.js"

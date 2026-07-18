@@ -18,7 +18,7 @@ The TUJ Fall 2025 Hackathon was the second biggest Hackathon TUJ CS Society had 
 
 [TUJ Fall 2025 Hackathon DevPost](https://tuj-fall-2025-hackathon.devpost.com/)
 
-![Everyone!](./_images/TUJ_Fall_2025_Hackathon/everyone.jpg)
+![Everyone!](./_images/TUJ_Fall_2025_Hackathon/everyone.jpeg)
 
 
 --- 
@@ -44,9 +44,9 @@ The full gallery of all projects submitted at this Hackthon can be found here:
 
 | | | |
 |:------:|:------:|:------:|
-| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_1.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_2.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_3.jpeg" width="300"> |
-| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_4.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_5.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_6.jpg" width="300"> |
-| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_7.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_8.jpg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_9.jpg" width="300"> |
+| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_1.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_2.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_3.jpeg" width="300"> |
+| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_4.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_5.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_6.jpeg" width="300"> |
+| <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_7.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_8.jpeg" width="300"> | <img alt="Photo of one of the Hackathon teams" src="./_images/TUJ_Fall_2025_Hackathon/team_9.jpeg" width="300"> |
 
 
 ---
@@ -59,14 +59,14 @@ What's really interesting this time is that we had winners from all years throug
 
 | | | |
 |:------:|:------:|:------:|
-| <img alt="Guardian Lens - 1st Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_1.png" width="300"> | <img alt="Share Food - 2nd Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_2.png" width="300"> | <img alt="ACBGPS - 3rd Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_3.png" width="300"> |
+| <img alt="Guardian Lens - 1st Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_1.jpeg" width="300"> | <img alt="Share Food - 2nd Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_2.jpeg" width="300"> | <img alt="ACBGPS - 3rd Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_3.jpeg" width="300"> |
 | 1st Place - GuardianLens: Kseniya Chadovich, Ryuto Thai, Miguel Reyes Nakasone, and Dan Morales Matsuzaki | 2nd place - Share Food: Celia Ran, Felix Zhang, and Kaen Zhang | 3rd place - ACBGPS: Casey Borngesser, James Donnelly, Fangyan Fu, Thomas Nitcheu |
 | [GuardianLens Project](https://www.linkedin.com/posts/kseniya-chadovich19_hackathon-templeuniversityjapan-ai-ugcPost-7391325108008751104-0lNF/) | [Share Food Project](https://devpost.com/software/share-food) | [ACBGPS Project](https://devpost.com/software/amazing-creative-beautiful-grocery-price-scraper-acbgps) |
 
 
 ## Game Track Winners
 
-<img alt="1st Place - Feed a Fish (Game)" src="./_images/TUJ_Fall_2025_Hackathon/game_winner_1.png" width="400" style="display: block; margin: 0 auto;">
+<img alt="1st Place - Feed a Fish (Game)" src="./_images/TUJ_Fall_2025_Hackathon/game_winner_1.jpeg" width="400" style="display: block; margin: 0 auto;">
 
 <p style="text-align: center;"> 
   <strong> 1st Place - Feed a Fish: Pramista KC, Dipesh Nihure, Quinn Cohen, and Alex Samlaska </strong>
