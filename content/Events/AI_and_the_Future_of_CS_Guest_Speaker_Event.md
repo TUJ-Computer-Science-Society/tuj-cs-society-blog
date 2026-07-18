@@ -155,7 +155,7 @@ Here, Cassady shows us a hand sign and how the model recognizes it. You can see 
 
 > [!info] Full Presentation and Complete Demo on YouTube
 >
-> You can watch Cassady's full presentation, along with the live demo, and audience questions on YouTube: [Cassady's Presentation](https://youtu.be/NiCfMc1VmUw)
+> You can watch Cassady's full presentation along with the live demo on YouTube: [Cassady's Presentation](https://youtu.be/NiCfMc1VmUw)
 
 
 --- 

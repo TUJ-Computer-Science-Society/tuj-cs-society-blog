@@ -17,12 +17,12 @@ tags:
 <!-- How to center an image: https://dev.to/bdavidxyz/markdown-center-image-39j1 -->
 <img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpg" width="500" style="display: block; margin: 0 auto;">
 
-Hello there! I'm Bhushith, a fourth year Computer Science Major at the Temple University Japan Campus. I'm a passionate Computer Science (CS) Major, and I also like teaching both CS and Math. I'm also the leader of the Computer Science Society and I work for student scucess offering all students opportunities, events, networking events, career growth opportunities, and much more. 
+Hello there! I'm Bhushith, a fourth year Computer Science Major at the Temple University Japan Campus. I'm a passionate Computer Science (CS) Major, and I also like teaching both CS and Math. I'm also the leader of the Computer Science Society and I work for student success offering all students opportunities, events, networking events, career growth opportunities, and much more. 
 
 
 ## How I got into CS
 
-I originally got into CS when I first started writing HTML and CSS back in 10th grade. But when I started learning Python, what really got me into it was a mini online Hackathon I did with the project's theme featuring social awareness abouts mental health. After that, my next project which was to try and make an auto-clicker for the [Cookie Clicker Game](https://cookieclicker.com/), I ended up having to restart my laptop because I never made a quit button, but it was a fun little project that really got me into CS.
+I originally got into CS when I first started writing HTML and CSS back in 10th grade. But when I started learning Python, what really got me into it was a mini online Hackathon I did with the project's theme featuring social awareness abouts mental health. After that, my next project was to try and make an auto-clicker for the [Cookie Clicker Game](https://cookieclicker.com/) so I could farm cookies (just as a fun, experimental project I don't mean to break the game nor do I condone cheating). I ended up having to restart my laptop because I never made a quit button, but it was a fun little project that really got me into CS.
 
 
 ## Why TUJ CS Society 
