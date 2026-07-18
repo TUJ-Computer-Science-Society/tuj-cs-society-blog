@@ -116,9 +116,6 @@ plugins:
     enabled: false
     order: 92
   - source: github:saberzero1/quartz-themes
-    name: quartz-themes
-    repo: https://github.com/saberzero1/quartz-themes.git
-    subdir: plugin
     enabled: true
     order: 10
     options:
