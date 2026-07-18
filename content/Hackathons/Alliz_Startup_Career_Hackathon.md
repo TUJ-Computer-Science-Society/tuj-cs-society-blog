@@ -25,7 +25,7 @@ The event was amazing, fun, and still stressful. It was an unique experience to 
 
 This was also the first external event that was going to be hosted at TUJ. This made it very exciting, the TUJ CS Society had a chance at showing people outside of TUJ what the society and the students of TUJ are capable of. 
 
-![Everyone!](./_images/Alliz_Startup_Career_Hackathon/everyone.JPG)
+![Everyone!](./_images/Alliz_Startup_Career_Hackathon/everyone.jpeg)
 
 
 ---
@@ -37,7 +37,7 @@ Shoutout to all of the teams who participated in the Hackathon! Though it hurts 
 
 ## Team OnTrack
 
-![Team OnTrack](./_images/Alliz_Startup_Career_Hackathon/team_on_track.JPG)
+![Team OnTrack](./_images/Alliz_Startup_Career_Hackathon/team_on_track.jpeg)
 ==(WINNERS!)== **OnTrack**: AI-powered college planning system aligning coursework with career goals.
 
 _Team OnTrack: Cassey Colobong, Owen McGlynn, Ganga Gurung, Krishna Pandey, Anish Mainali_
@@ -45,7 +45,7 @@ _Team OnTrack: Cassey Colobong, Owen McGlynn, Ganga Gurung, Krishna Pandey, Anis
 [OnTrack Project GitHub](https://github.com/omcglynn/Universityschedulemakercopycopy)
 
 ## Team Atakk
-![Team ATAKK](./_images/Alliz_Startup_Career_Hackathon/team_atakk.JPG)
+![Team ATAKK](./_images/Alliz_Startup_Career_Hackathon/team_atakk.jpeg)
 **GitTogether**: Collaborative platform connecting aspiring developers for projects.
 
 _Team ATAKK: Aisha Kyobe Natebwa, Thomas Nitcheu, Aria Kurbanbaeva, Koyu Fuke, Kolby Scott Hart._
@@ -54,7 +54,7 @@ _Team ATAKK: Aisha Kyobe Natebwa, Thomas Nitcheu, Aria Kurbanbaeva, Koyu Fuke, K
 
 
 ## Team mPloy
-![Team mPloy](./_images/Alliz_Startup_Career_Hackathon/team_mploy.JPG)
+![Team mPloy](./_images/Alliz_Startup_Career_Hackathon/team_mploy.jpeg)
 **mPloy**: Personalized job finder that matches student skills directly to employment opportunities.
 
 _Team mPloy: Alexander Buenaseda, Hamza Mustafa, Behruz Omonullaev, Kaori Shimoda, Xin Luo_
@@ -63,7 +63,7 @@ _Team mPloy: Alexander Buenaseda, Hamza Mustafa, Behruz Omonullaev, Kaori Shimod
 
 
 ## Team SignBridge
-![Team SignBridge](./_images/Alliz_Startup_Career_Hackathon/team_01.JPG)
+![Team SignBridge](./_images/Alliz_Startup_Career_Hackathon/team_01.jpeg)
 **SignBridge Career**: Real-time sign language access platform for inclusive professional growth.
 
 _Team 01: Nikita Slobodenyuk, Ali irfan Kapan, Anastasia Sasaki, Meg E., Muhammad Haris Shakeel,_
@@ -72,7 +72,7 @@ _Team 01: Nikita Slobodenyuk, Ali irfan Kapan, Anastasia Sasaki, Meg E., Muhamma
 
 
 ## Team Utoe
-![Team Utoe](./_images/Alliz_Startup_Career_Hackathon/team_utoe.JPG)
+![Team Utoe](./_images/Alliz_Startup_Career_Hackathon/team_utoe.jpeg)
 **TalentMap**: Project portfolio-based hiring solution matching students with hiring companies.
 
 _Team Utoe: Brilliant Aksan, Maya Rose Martinez, Naomi Shimoda, Snigdha Tunuguntla, Tai._

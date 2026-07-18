@@ -17,6 +17,6 @@ Read more about the members of the CS Society, who they are, why they are into C
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpg" width="300"> | <img alt="Alonco Rico" src="./_images/Homepage/CS_Society_Members/Alonzo_Rico.png" width="300"> | <img alt="Kaori Shimoda" src="./_images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg" width="300"> |
+|<img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpeg" width="300"> | <img alt="Alonzo Rico" src="./_images/Homepage/CS_Society_Members/Alonzo_Rico.jpeg" width="300"> | <img alt="Kaori Shimoda" src="./_images/Homepage/CS_Society_Members/Kaori_Shimoda.jpeg" width="300"> |
 | [Bhushith Gujjala Hari - Leader](<./Society Members/Bhushith_Gujjala_Hari.md>) | [Alonzo Rico - Co-Leader](<./Society Members/Alonzo_Rico.md>) | [Kaori Shimoda - Co-Leader](<./Society Members/Kaori_Shimoda.md>) |
 

@@ -8,14 +8,14 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: tuj-computer-science-society.github.io/tuj-cs-society-blog/
-  ignorePatterns: # ignore these files / folders
+  ignorePatterns:
     - private
     - templates
     - _templates
     - .obsidian
-    - ".git"
-    - ".github"
-    - "node_modules"
+    - .git
+    - .github
+    - node_modules
     - "*.psd"
     - "*.raw"
   theme:
@@ -82,7 +82,7 @@ plugins:
     options:
       maxDepth: 3
       minEntries: 1
-      showByDefault: true 
+      showByDefault: true
       collapseByDefault: false
       layout: modern
   - source: github:quartz-community/crawl-links
@@ -117,12 +117,12 @@ plugins:
     order: 92
   - source: github:saberzero1/quartz-themes
     name: quartz-themes
-    repo: "https://github.com/saberzero1/quartz-themes.git"
+    repo: https://github.com/saberzero1/quartz-themes.git
     subdir: plugin
     enabled: true
     order: 10
     options:
-      theme: "catppuccin.macchiato"
+      theme: catppuccin.macchiato
       mode: both
   - source: github:quartz-community/fonts
     enabled: true
@@ -166,10 +166,10 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      title: "Explorer"
+      title: Explorer
       folderClickBehavior: collapse
       folderDefaultState: collapsed
-      useSavedState: false
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -289,7 +289,8 @@ plugins:
         - publishDate
         - tags
         - aliases
-      excludedProperties: ["description"]
+      excludedProperties:
+        - description
       hidePropertiesView: false
       delimiters: ---
       language: yaml

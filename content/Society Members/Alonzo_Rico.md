@@ -15,7 +15,7 @@ tags:
 ## Introduction 
 
 <!-- How to center an image: https://dev.to/bdavidxyz/markdown-center-image-39j1 -->
-<img alt="Alonzo Rico" src="./_images/Homepage/CS_Society_Members/Alonzo_Rico.png" width="300" style="display: block; margin: 0 auto;">
+<img alt="Alonzo Rico" src="./_images/Homepage/CS_Society_Members/Alonzo_Rico.jpeg" width="300" style="display: block; margin: 0 auto;">
 
 My name is Alonzo Rico, I’m a senior CS student at TUJ and I am on my way to graduating by the end of 2026!
 

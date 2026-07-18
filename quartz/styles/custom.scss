@@ -13,3 +13,39 @@ img {
   /* Native browser optimization */
   decoding: async; 
 }
+
+
+// Issue: Explorer would become completely invisible if collapsed
+// Fix: theme hides the whole .explorer wrapper via the `.collapsed` class,
+// instead of just hiding the inner file tree. This keeps the title/toggle
+// buttons visible, and only collapses the actual tree content.
+
+.explorer.collapsed {
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+// Collapse tree content
+.explorer.collapsed .explorer-content {
+  display: none !important;
+}
+
+// Hide the desktop title button specifically when collapsed:
+.explorer.collapsed .desktop-explorer {
+  display: none !important;
+}
+
+// Keep the mobile hamburger toggle visible/clickable when collapsed:
+.explorer.collapsed .mobile-explorer {
+  display: flex !important;
+  visibility: visible !important;
+}
+
+// Make sure both toggle buttons (mobile hamburger + desktop title) stay
+// visible and clickable no matter what:
+// .explorer-toggle {
+//   display: flex !important;
+//   visibility: visible !important;
+// }
+

@@ -12,7 +12,7 @@ tags:
 Welcome to Temple University Japan Computer Science Society's very own Blog! 
 On this blog, we'll write about events, networking opportunities, career opportunities, personal event experiences, personal excerpts from CS Society members, and lots more!
 
-![Everyone from the SDGs to Startups Hackathon held in June 2026!](./_images/Homepage/SDGs_To_Startups_Everyone.jpg)
+![Everyone from the SDGs to Startups Hackathon held in June 2026!](./_images/Homepage/SDGs_To_Startups_Everyone.jpeg)
 
 
 ---
