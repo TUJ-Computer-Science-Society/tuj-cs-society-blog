@@ -89,6 +89,11 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      externalLinkIcon: true
+      lazyLoad: true
+      openLinksInNewTab: true
+      disableBrokenWikilinks: true
+      prettyLinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
