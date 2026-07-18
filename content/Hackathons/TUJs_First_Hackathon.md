@@ -25,7 +25,7 @@ The theme especially made it quite fun for everyone, it was "The Game is a Liar"
 
 We did have snacks, refreshments, drinks, but the main appeal of the event was to have fun, code something within just 9 hours, and make a fun project for everyone. 
 
-![Photo of All Participants](./_images/TUJs_First_Hackathon/All_Participants_Photo.jpg)
+![Photo of All Participants](./_images/TUJs_First_Hackathon/All_Participants_Photo.jpeg)
 
 
 --- 
@@ -34,7 +34,7 @@ We instructed teams to use PyGame, because it was the most easy to pick up, and 
 
 Every team had an unique approach to the challenge, some teams were making a spinoff of an existing game, making games with a twist, making a completely new game with new rules, and so many more interesting projects. 
 
-![Team-01 Photo](./_images/TUJs_First_Hackathon/Team01.jpg)
+![Team-01 Photo](./_images/TUJs_First_Hackathon/Team01.jpeg)
 
 
 ---
@@ -45,7 +45,7 @@ But, I am happy to announce these teams were the winners of our first Hackathon 
 
 | 2nd | 1st | 3rd |
 | :---: | :---: | :---: |
-| ![2nd Place](./_images/TUJs_First_Hackathon/Winners_2nd_Place.jpg) | ![1st Place](./_images/TUJs_First_Hackathon/Winners_1st_Place.jpg) | ![3rd Place](./_images/TUJs_First_Hackathon/Winners_3rd_Place.jpg)  |
+| ![2nd Place](./_images/TUJs_First_Hackathon/Winners_2nd_Place.jpeg) | ![1st Place](./_images/TUJs_First_Hackathon/Winners_1st_Place.jpeg) | ![3rd Place](./_images/TUJs_First_Hackathon/Winners_3rd_Place.jpeg)  |
 | _(Left to Right) Thomas Ishida, Ryuto Thai, Miguel Reyes Nakasone, Professor Hani Karam, and Professor Farid Nakhle_ | _(Left to Right) Bettina Marksteiner, Riju Pant, Jaideep Uppal, Sushant Bharadwaj Kagolanu, Professor Hani Karam, and Professor Farid Nakhle_ | _(Left to Right) Jay Sidka Abimanyu, Alisa Sumwalt, Alonzo Rico, Matthew Wong-Chie, Professor Hani Karam, and Professor Farid Nakhle_ |
 
 
@@ -63,7 +63,7 @@ I learnt a lot of crucial skills at this Hackathon. A few notable things to me w
 
 ## Organizers
 
-![First CS Society Organizers](./_images/TUJs_First_Hackathon/First_CS_Society_Organizers.jpg)
+![First CS Society Organizers](./_images/TUJs_First_Hackathon/First_CS_Society_Organizers.jpeg)
 
 This was the first official TUJ CS Society team, and now most of my friends have graduated, but we were very happy to have pulled off a full event before that semester. I am happy I was given this opportunity, and I hope I do justice to the CS society in the future, organize more events, give TUJ students the recognition they deserve, and do more for the entire community, not only for the CS students, but for all students at TUJ.
 

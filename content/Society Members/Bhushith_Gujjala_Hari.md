@@ -15,7 +15,7 @@ tags:
 ## Introduction 
 
 <!-- How to center an image: https://dev.to/bdavidxyz/markdown-center-image-39j1 -->
-<img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpg" width="500" style="display: block; margin: 0 auto;">
+<img alt="Bhushith Gujjala Hari" src="./_images/Homepage/CS_Society_Members/Bhushith_Gujjala_Hari.jpeg" width="500" style="display: block; margin: 0 auto;">
 
 Hello there! I'm Bhushith, a fourth year Computer Science Major at the Temple University Japan Campus. I'm a passionate Computer Science (CS) Major, and I also like teaching both CS and Math. I'm also the leader of the Computer Science Society and I work for student success offering all students opportunities, events, networking events, career growth opportunities, and much more. 
 
