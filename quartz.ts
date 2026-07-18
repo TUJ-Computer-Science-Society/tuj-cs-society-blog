@@ -1,16 +1,11 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
-<<<<<<< HEAD
-=======
 import type { ExplorerOptions } from "./.quartz/plugins"
->>>>>>> origin/main
 
 const config = await loadQuartzConfig()
 export default config
 export const layout = await loadQuartzLayout()
 
-<<<<<<< HEAD
-=======
 
 // Custom Filter function for Quartz's Explorer
 
@@ -29,4 +24,3 @@ const filterFn: ExplorerOptions["filterFn"] = (node) => {
 ExternalPlugin.Explorer({
   filterFn: filterFn
 })
->>>>>>> origin/main
