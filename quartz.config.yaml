@@ -8,14 +8,14 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: tuj-computer-science-society.github.io/tuj-cs-society-blog/
-  ignorePatterns:
+  ignorePatterns: # ignore these files / folders
     - private
     - templates
     - _templates
     - .obsidian
-    - .git
-    - .github
-    - node_modules
+    - ".git"
+    - ".github"
+    - "node_modules"
     - "*.psd"
     - "*.raw"
   theme:
@@ -166,10 +166,10 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      title: Explorer
+      title: "Explorer"
       folderClickBehavior: collapse
       folderDefaultState: collapsed
-      useSavedState: true
+      useSavedState: false
     layout:
       position: left
       priority: 50
