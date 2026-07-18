@@ -23,6 +23,8 @@
     "prepare": "husky",
     "prebuild": "npm run install-plugins",
     "prepare": "husky"
+    "prebuild": "npm run install-plugins",
+    "prepare": "husky"
   },
   "engines": {
     "npm": ">=10.9.2",
