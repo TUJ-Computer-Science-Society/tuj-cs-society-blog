@@ -8,14 +8,20 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: tuj-computer-science-society.github.io/tuj-cs-society-blog/
-  ignorePatterns:
+  ignorePatterns: # ignore these files / folders
     - private
     - templates
     - _templates
     - .obsidian
+<<<<<<< HEAD
     - .git
     - .github
     - node_modules
+=======
+    - ".git"
+    - ".github"
+    - "node_modules"
+>>>>>>> origin/main
     - "*.psd"
     - "*.raw"
   theme:
@@ -166,10 +172,17 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
+<<<<<<< HEAD
       title: Explorer
       folderClickBehavior: collapse
       folderDefaultState: collapsed
       useSavedState: true
+=======
+      title: "Explorer"
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
+      useSavedState: false
+>>>>>>> origin/main
     layout:
       position: left
       priority: 50
