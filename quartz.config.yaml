@@ -8,11 +8,16 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: tuj-computer-science-society.github.io/tuj-cs-society-blog/
-  ignorePatterns:
+  ignorePatterns: # ignore these files / folders
     - private
     - templates
     - _templates
     - .obsidian
+    - ".git"
+    - ".github"
+    - "node_modules"
+    - "*.psd"
+    - "*.raw"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
