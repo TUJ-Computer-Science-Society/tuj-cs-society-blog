@@ -2,3 +2,14 @@
 
 // put your custom CSS here!
 @use "themes";
+
+// for optimal image loading / styling
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  /* Prevents blank blocks while downloading */
+  content-visibility: auto; 
+  /* Native browser optimization */
+  decoding: async; 
+}

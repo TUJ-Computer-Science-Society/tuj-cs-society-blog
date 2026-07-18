@@ -60,7 +60,7 @@ What's really interesting this time is that we had winners from all years throug
 | | | |
 |:------:|:------:|:------:|
 | <img alt="Guardian Lens - 1st Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_1.png" width="300"> | <img alt="Share Food - 2nd Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_2.png" width="300"> | <img alt="ACBGPS - 3rd Place Winner (App)" src="./_images/TUJ_Fall_2025_Hackathon/app_winner_3.png" width="300"> |
-| 1st Place - GuardianLens: Kseniya Chadovich, Ryuto Thai, Miguel Reyes Nakasone, and Daniel Morales Matsuzaki | 2nd place - Share Food: Celia Ran, Felix Zhang, and Kaen Zhang | 3rd place - ACBGPS: Casey Borngesser, James Donnelly, Fangyan Fu, Thomas Nitcheu |
+| 1st Place - GuardianLens: Kseniya Chadovich, Ryuto Thai, Miguel Reyes Nakasone, and Dan Morales Matsuzaki | 2nd place - Share Food: Celia Ran, Felix Zhang, and Kaen Zhang | 3rd place - ACBGPS: Casey Borngesser, James Donnelly, Fangyan Fu, Thomas Nitcheu |
 | [GuardianLens Project](https://www.linkedin.com/posts/kseniya-chadovich19_hackathon-templeuniversityjapan-ai-ugcPost-7391325108008751104-0lNF/) | [Share Food Project](https://devpost.com/software/share-food) | [ACBGPS Project](https://devpost.com/software/amazing-creative-beautiful-grocery-price-scraper-acbgps) |
 
 
