@@ -22,7 +22,7 @@ Hello there! I'm Bhushith, a fourth year Computer Science Major at the Temple Un
 
 ## How I got into CS
 
-I originally got into CS when I first started writing HTML and CSS back in 10th grade. But when I started learning Python, what really got me into it was a mini online Hackathon I did with the project's theme featuring social awareness abouts mental health. After that, my next project which was to try and make an auto-clicker for the [Cookie Clicker Game](https://cookieclicker.com/), I ended up having to restart my laptop because I never made a quit button, but it was a fun little project that really got me into CS.
+I originally got into CS when I first started writing HTML and CSS back in 10th grade. But when I started learning Python, what really got me into it was a mini online Hackathon I did with the project's theme featuring social awareness abouts mental health. After that, my next project was to try and make an auto-clicker for the [Cookie Clicker Game](https://cookieclicker.com/) so I could farm cookies (just as a fun, experimental project I don't mean to break the game nor do I condone cheating). I ended up having to restart my laptop because I never made a quit button, but it was a fun little project that really got me into CS.
 
 
 ## Why TUJ CS Society 
